@@ -33,8 +33,8 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void perpus(View view) {
-        Intent intent = new Intent(MainActivity.this, PerpusActivity.class);
+    public void perpuss(View view) {
+        Intent intent = new Intent(MainActivity.this,PerpusActivity.class);
         startActivity(intent);
     }
 
